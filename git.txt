@@ -1,0 +1,7 @@
+git add <arquivo>
+git commit -m "<descritivo>"
+git config --local user.name "<nome>"
+git config --local user.email "<email@email>"
+git push -u origin master
+
+git pull // para recuperaço incremental
